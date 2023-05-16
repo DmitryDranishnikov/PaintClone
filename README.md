@@ -1,6 +1,6 @@
 # PaintClone
                                                                                         Руководство по использованию PaintClone
-                                                                                               ![Uploading image.png…]()
+                                         
 
 
 
